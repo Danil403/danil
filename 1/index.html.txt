@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>unknown</title>
+<meta>charset="utf-8">
+<meta name="keywords" content="мой сайт, html, unknown">
+<link rel="shortcut icon" href="https://atom.io/favicon.ico"/>
+<link rel="stylesheet" href="/assets/css/style.css">
+<style>
+		body {
+		background:#B0E0E6; 
+		color:#708090;
+		width:100%;
+		margin:0;
+		text-align:center;
+		}
+		h1{ 
+		font-style: oblique;
+    	text-decoration: underline;
+		}
+		
+	</style>
+</head>
+<body>
+Gooqle Chrome
+<h1>Это заголовок H1</h1>
+<h2>"Это заголовок H2</h2>
+<p id="ideveloper">Теск внутри <br> тега p</p>
+<p><b>Текст жирный</b></p>
+<p><em>Тескт курсивом</em></p>
+<a href="https://www.youtube.com/watch?v=KYmFYP8V1Pw" tarqet="_blank">Ролик на YouTube</a>
+<br>
+<a href="#ideveloper">Якорь на параграф ideveloper</a>
+</body>
+</html>
+img src="C:\Users\User\Desktop\ипотека\IMG_6160.JPG" alt="">
+</body>
